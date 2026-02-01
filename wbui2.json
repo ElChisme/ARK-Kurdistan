@@ -6,10 +6,10 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+      "iconurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
       "disableicontext": false,
       "iconposition": 3,
-      "icontextcolor": 2,
+      "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": false,
       "updateinterval": 12
@@ -17,85 +17,85 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Green>Willkommen</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Willkommen",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Green>Kurdish Power</>",
-            "text": "Langzeit PvE Community Server\n\nEntspanntes Spielen mit Zukunft.\n\nWir sind ein Community-Server ohne Wipes.\nUnser Fokus liegt auf Spaß, Respekt, Bauen, Züchten und gemeinsamen Abenteuern.\n\nCasual heute – Hardcore morgen, wenn die Community es möchte."
+            "title": "Kurdish Power",
+            "text": "<TextStyle.Green>Langzeit PvE Community • No Wipes</>\n\nWillkommen auf <TextStyle.Yellow>Kurdish Power</>.\nWir sind ein langfristiger Community-Server ohne Wipes – entspannt, fair und mit Fokus auf Spaß.\n\n<TextStyle.LightBlue>Was dich hier erwartet</>\n• Bauen, Züchten, Erkunden & gemeinsame Runs\n• QoL-Gameplay (weniger Stress, mehr Spiel)\n• Respektvoller Umgang & aktive Community\n\n<TextStyle.Orange>Wichtig:</> Vorschläge & Änderungen werden im Discord offen diskutiert – die Community entscheidet mit."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Yellow>Über uns</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Über uns",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Yellow>Unsere Community</>",
-            "text": "Kurdish Power ist mehr als nur ein Server.\n\nWir entwickeln uns gemeinsam.\nIdeen, Vorschläge und Feedback sind im Discord immer willkommen.\n\nDie Community entscheidet aktiv über Veränderungen, Mods und Events."
+            "title": "Community & Ausrichtung",
+            "text": "<TextStyle.Yellow>Unsere Idee</>\nKurdish Power ist kein „Random-Server“ – wir bauen langfristig eine stabile Community auf.\n\n<TextStyle.LightBlue>Spielstil</>\nAktuell spielen wir <TextStyle.Green>entspannt (Casual)</>.\nWenn die Community Bock hat, können wir später gemeinsam Richtung <TextStyle.Red>Hardcore</> gehen – aber weiterhin mit Mods/Settings, die das Spiel angenehm halten.\n\n<TextStyle.Orange>Mitbestimmung</>\n• Community-Vorschläge sind ausdrücklich erwünscht\n• Änderungen (Mods/Regeln/Events) werden transparent besprochen\n• Ziel: faire Entscheidungen, kein Admin-Willkür-Feeling"
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.LightBlue>Server Infos</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Server Infos",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.LightBlue>Server Details</>",
-            "text": "Map: The Island\nModded PvE Server\nRegion: EU\n\nLangzeit ohne Wipe\nAktive Community\nEvents & Bossruns\nDiscord Support"
+            "title": "Server Details",
+            "text": "<TextStyle.LightBlue>Grunddaten</>\n• Map: <TextStyle.Yellow>The Island</>\n• Modded PvE Server\n• Langzeit ohne Wipe\n\n<TextStyle.LightBlue>Qualität & Komfort</>\n• QoL-Mods aktiv (Details im Discord)\n• Schnelles Züchten/Brüten\n• Loot & Farming angenehm, aber nicht komplett overpowered\n\n<TextStyle.Orange>Support</>\nBei Fragen/Problemen: Discord → dort sammeln wir auch Vorschläge & Änderungswünsche."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Orange>Raten</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Raten",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Orange>Server Raten</>",
-            "text": "Taming: 8x\nHarvest: 2.5x\nBreeding: Sehr schnell\nEgg Hatch: 60x\nBaby Growth: 42x\nLoot: 3.5x\n\nTag: ~45 Min\nNacht: ~25 Min"
+            "title": "Rates Übersicht",
+            "text": "<TextStyle.Orange>Progress</>\n• Taming: <TextStyle.Yellow>8x</>\n• Harvest: <TextStyle.Yellow>2.5x</>\n• Loot Quality: <TextStyle.Yellow>3.5x</>\n• Stacksize: <TextStyle.Yellow>2x</>\n\n<TextStyle.Orange>Breeding</>\n• Baby Growth: <TextStyle.Yellow>42x</>\n• Egg Hatch: <TextStyle.Yellow>60x</>\n• Mating Interval: <TextStyle.Yellow>sehr kurz</>\n\n<TextStyle.Orange>Tag/Nacht</>\n• Tag ~<TextStyle.Green>45 Min</>\n• Nacht ~<TextStyle.Green>25 Min</>\n\n<TextStyle.LightBlue>Ziel:</> weniger Wartezeit, mehr Gameplay."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Red>Regeln</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Regeln",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Red>Server Regeln</>",
-            "text": "1. Respektvoller Umgang\n2. Kein Griefing oder Exploits\n3. Keine Beleidigungen\n4. Kein Cheaten\n5. Adminentscheidungen respektieren\n\nZiel: Fairness & Spaß für alle."
+            "title": "Server Regeln (Kurz & Klar)",
+            "text": "<TextStyle.Red>1) Respekt</>\nKein Toxic-Chat, keine Diskriminierung, keine Provokationen.\n\n<TextStyle.Red>2) Fair Play</>\nKein Cheaten, keine Exploits, kein Duping.\n\n<TextStyle.Red>3) Kein Griefing</>\nPvE heißt: anderen nicht mutwillig den Spielspaß zerstören.\n\n<TextStyle.Red>4) Bugs melden</>\nWenn etwas kaputt ist: melden statt ausnutzen.\n\n<TextStyle.LightBlue>Hinweis:</> Regeln können gemeinsam mit der Community im Discord weiterentwickelt werden."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Violet>Events</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Events",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Violet>Community Events</>",
-            "text": "Bossruns\nBau-Wettbewerbe\nPvE-Challenges\nSaisonale Events\n\nIdeen aus der Community sind immer willkommen."
+            "title": "Events & Community Aktionen",
+            "text": "<TextStyle.Violet>Geplant / möglich</>\n• Bossruns (gemeinsam & organisiert)\n• Bau-Wettbewerbe / Showcase\n• Dino- und Breed-Challenges\n• Saison-Events / Themenwochen\n\n<TextStyle.Orange>Du hast Ideen?</>\nPoste sie im Discord – wir nehmen Community-Vorschläge sehr gerne an.\n\n<TextStyle.LightBlue>Ziel:</> Abwechslung + Gründe zusammen zu spielen."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Green>Discord</>",
-        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "buttontext": "Discord",
+        "imageurl": "https://www.flagcolorcodes.com/data/Flag-of-Kurdistan.png",
         "content": [
           {
-            "title": "<TextStyle.Green>Community & Support</>",
-            "text": "Unser Discord ist das Herz der Community.\n\nDort kannst du:\n- Fragen stellen\n- Vorschläge einreichen\n- Events planen\n- Feedback geben"
+            "title": "Discord = Zentrale",
+            "text": "<TextStyle.Green>Hier passiert alles Wichtige</>\n• Support & Fragen\n• News & Updates\n• Community-Vorschläge (Mods/Änderungen/Regeln)\n• Eventplanung\n\n<TextStyle.Yellow>Wenn du irgendwas brauchst:</> Discord ist der schnellste Weg."
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "<TextStyle.Green>Zum Discord</>",
+        "text": "➡ Discord beitreten",
         "url": "https://discord.gg/GrqQc4y95r"
       }
     ],
