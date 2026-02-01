@@ -1,32 +1,49 @@
 {
-  "settings": {
-    "OpenOnStart": true,
-    "ShowOnRespawn": true,
-    "AllowClose": true
-  },
-  "tabs": [
+  "WBUI2":
+  {
+    "settings":
     {
-      "title": "Willkommen",
-      "content": [
-        {
-          "type": "text",
-          "value": "💚 Willkommen auf unserem ARK Server!\n\nHier spielen wir fair, entspannt und mit Spaß.\nRespekt steht bei uns an erster Stelle.\n\nWenn du Fragen hast oder Mitspieler suchst, komm gerne in unseren Discord!\n\nBitte haltet euch an ein faires Miteinander 🦖"
-        }
-      ]
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 3,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 12
     },
-    {
-      "title": "Discord",
-      "content": [
-        {
-          "type": "text",
-          "value": "💬 Unser Community-Discord\n\nHier bekommst du Hilfe, Infos und kannst dich mit anderen austauschen."
-        },
-        {
-          "type": "button",
-          "text": "➡ Zum Discord",
-          "url": "https://discord.gg/GrqQc4y95r"
-        }
-      ]
-    }
-  ]
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Willkommen",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "ARK Kurdistan",
+            "text": "💚 Willkommen auf unserem Server!\n\nHier wird fair gespielt und respektvoll miteinander umgegangen.\n\nBei Fragen oder Problemen komm bitte in unseren Discord.\n\nViel Spaß beim Überleben 🦖"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Discord",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Community Discord",
+            "text": "Klicke unten auf den Link um unserem Discord beizutreten."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/GrqQc4y95r"
+      }
+    ],
+    "version": 2
+  }
 }
