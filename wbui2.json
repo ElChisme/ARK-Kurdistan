@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "OpenOnStart": true,
+    "ShowOnRespawn": true,
+    "AllowClose": true,
+    "IconURL": ""
+  },
+  "tabs": [
+    {
+      "title": "Willkommen",
+      "icon": "heart",
+      "content": [
+        {
+          "type": "text",
+          "value": "💚 Willkommen auf unserem ARK Server!\n\nHier spielen wir fair, entspannt und mit Spaß.\nRespekt steht bei uns an erster Stelle.\n\nWenn du Fragen hast oder Mitspieler suchst, komm gerne in unseren Discord!\n\nBitte haltet euch an ein faires Miteinander 🦖"
+        }
+      ]
+    },
+    {
+      "title": "Discord",
+      "icon": "discord",
+      "content": [
+        {
+          "type": "text",
+          "value": "💬 Unser Community-Discord\n\nHier bekommst du Hilfe, Infos und kannst dich mit anderen austauschen."
+        },
+        {
+          "type": "button",
+          "text": "➡ Zum Discord",
+          "url": "https://discord.gg/GrqQc4y95r"
+        }
+      ]
+    }
+  ]
+}
