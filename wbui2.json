@@ -2,13 +2,11 @@
   "settings": {
     "OpenOnStart": true,
     "ShowOnRespawn": true,
-    "AllowClose": true,
-    "IconURL": ""
+    "AllowClose": true
   },
   "tabs": [
     {
       "title": "Willkommen",
-      "icon": "heart",
       "content": [
         {
           "type": "text",
@@ -18,7 +16,6 @@
     },
     {
       "title": "Discord",
-      "icon": "discord",
       "content": [
         {
           "type": "text",
