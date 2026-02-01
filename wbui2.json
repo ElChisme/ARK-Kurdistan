@@ -21,19 +21,19 @@
         "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "<TextStyle.Green>ARK Kurdistan</>",
-            "text": "💚 Willkommen auf unserem Server!\n\nHier spielen wir fair, entspannt und respektvoll.\n\nBei Fragen oder Problemen komm bitte in unseren Discord.\n\nViel Spaß beim Überleben 🦖"
+            "title": "<TextStyle.Green>Kurdish Power</>",
+            "text": "Langzeit PvE Community Server\n\nEntspanntes Spielen mit Zukunft.\n\nWir sind ein Community-Server ohne Wipes.\nUnser Fokus liegt auf Spaß, Respekt, Bauen, Züchten und gemeinsamen Abenteuern.\n\nCasual heute – Hardcore morgen, wenn die Community es möchte."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Yellow>Regeln</>",
+        "buttontext": "<TextStyle.Yellow>Über uns</>",
         "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "<TextStyle.Yellow>Server Regeln</>",
-            "text": "1. Respekt gegenüber allen Spielern\n2. Kein Griefing oder Cheaten\n3. Keine Beleidigungen oder Diskriminierung\n4. Adminentscheidungen sind zu respektieren\n5. Bugs nicht ausnutzen\n\nBei Verstößen drohen Verwarnungen oder Bans."
+            "title": "<TextStyle.Yellow>Unsere Community</>",
+            "text": "Kurdish Power ist mehr als nur ein Server.\n\nWir entwickeln uns gemeinsam.\nIdeen, Vorschläge und Feedback sind im Discord immer willkommen.\n\nDie Community entscheidet aktiv über Veränderungen, Mods und Events."
           }
         ]
       },
@@ -43,26 +43,59 @@
         "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "<TextStyle.LightBlue>Server Einstellungen</>",
-            "text": "Map: The Island\nModded ASA Server\nCommunity Server\n\nTag/Nacht angepasst\nEvents & Bossruns geplant\n\nDiscord für Support & News"
+            "title": "<TextStyle.LightBlue>Server Details</>",
+            "text": "Map: The Island\nModded PvE Server\nRegion: EU\n\nLangzeit ohne Wipe\nAktive Community\nEvents & Bossruns\nDiscord Support"
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Violet>Discord</>",
+        "buttontext": "<TextStyle.Orange>Raten</>",
         "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "<TextStyle.Violet>Community Discord</>",
-            "text": "Klick unten auf den Link, um unserem Discord beizutreten."
+            "title": "<TextStyle.Orange>Server Raten</>",
+            "text": "Taming: 8x\nHarvest: 2.5x\nBreeding: Sehr schnell\nEgg Hatch: 60x\nBaby Growth: 42x\nLoot: 3.5x\n\nTag: ~45 Min\nNacht: ~25 Min"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Regeln</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "content": [
+          {
+            "title": "<TextStyle.Red>Server Regeln</>",
+            "text": "1. Respektvoller Umgang\n2. Kein Griefing oder Exploits\n3. Keine Beleidigungen\n4. Kein Cheaten\n5. Adminentscheidungen respektieren\n\nZiel: Fairness & Spaß für alle."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Violet>Events</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "content": [
+          {
+            "title": "<TextStyle.Violet>Community Events</>",
+            "text": "Bossruns\nBau-Wettbewerbe\nPvE-Challenges\nSaisonale Events\n\nIdeen aus der Community sind immer willkommen."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Green>Discord</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Community & Support</>",
+            "text": "Unser Discord ist das Herz der Community.\n\nDort kannst du:\n- Fragen stellen\n- Vorschläge einreichen\n- Events planen\n- Feedback geben"
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "<TextStyle.Green>Discord</>",
+        "text": "<TextStyle.Green>Zum Discord</>",
         "url": "https://discord.gg/GrqQc4y95r"
       }
     ],
