@@ -6,10 +6,10 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
       "disableicontext": false,
       "iconposition": 3,
-      "icontextcolor": 0,
+      "icontextcolor": 2,
       "openonstart": true,
       "openonstartonlynewplayers": false,
       "updateinterval": 12
@@ -17,30 +17,52 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Willkommen",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "<TextStyle.Green>Willkommen</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "ARK Kurdistan",
-            "text": "💚 Willkommen auf unserem Server!\n\nHier wird fair gespielt und respektvoll miteinander umgegangen.\n\nBei Fragen oder Problemen komm bitte in unseren Discord.\n\nViel Spaß beim Überleben 🦖"
+            "title": "<TextStyle.Green>ARK Kurdistan</>",
+            "text": "💚 Willkommen auf unserem Server!\n\nHier spielen wir fair, entspannt und respektvoll.\n\nBei Fragen oder Problemen komm bitte in unseren Discord.\n\nViel Spaß beim Überleben 🦖"
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "Discord",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "<TextStyle.Yellow>Regeln</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
         "content": [
           {
-            "title": "Community Discord",
-            "text": "Klicke unten auf den Link um unserem Discord beizutreten."
+            "title": "<TextStyle.Yellow>Server Regeln</>",
+            "text": "1. Respekt gegenüber allen Spielern\n2. Kein Griefing oder Cheaten\n3. Keine Beleidigungen oder Diskriminierung\n4. Adminentscheidungen sind zu respektieren\n5. Bugs nicht ausnutzen\n\nBei Verstößen drohen Verwarnungen oder Bans."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.LightBlue>Server Infos</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "content": [
+          {
+            "title": "<TextStyle.LightBlue>Server Einstellungen</>",
+            "text": "Map: The Island\nModded ASA Server\nCommunity Server\n\nTag/Nacht angepasst\nEvents & Bossruns geplant\n\nDiscord für Support & News"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Violet>Discord</>",
+        "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Kurdistan.svg/640px-Flag_of_Kurdistan.svg.png",
+        "content": [
+          {
+            "title": "<TextStyle.Violet>Community Discord</>",
+            "text": "Klick unten auf den Link, um unserem Discord beizutreten."
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "Discord",
+        "text": "<TextStyle.Green>Discord</>",
         "url": "https://discord.gg/GrqQc4y95r"
       }
     ],
